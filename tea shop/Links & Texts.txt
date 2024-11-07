@@ -1,0 +1,11 @@
+<!-- boxicon cdn link -->
+<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod corporis explicabo recusandae quis, facilis non minus aliquam possimus soluta harum quidem aspernatur pariatur temporibus velit. Tenetur aperiam illo ipsam reprehenderit.</p>
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consectetur vel ad perspiciatis, totam qui reiciendis distinctio quos eum cum, sed aliquid officiis laborum. Pariatur tempora suscipit excepturi tempore.</p>
+
+Testimonials
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati officia, et illo enim animi, quibusdam tenetur assumenda, id accusamus aliquid ratione eius nemo consectetur atque facilis quo soluta quos cupiditate.</p>
+
+Blog
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.Lorem ipsum dolor sit amet consectetur</p>
